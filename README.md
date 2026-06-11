@@ -25,4 +25,24 @@ An interactive machine learning web application that predicts diabetes using a c
 
 **🔗 Streamlit App:  https://diabetesprediction-ansheunt6n9qcdhdanane9.streamlit.app
 
+###Author
+Reniguntla Sreenivasulu
+
+## 📸 Screenshots
+
+### Home Page
+![Home](screenshots/screenshots/home.png)
+
+### Cat Image
+![Cat](screenshots/screenshots/cat.png)
+
+### Cat Prediction
+![Cat Prediction](screenshots/screenshots/cat_prediction.png)
+
+### Dog Image
+![Dog](screenshots/screenshots/dog.png)
+
+### Dog Prediction
+![Dog Prediction](screenshots/screenshots/dog_prediction.png)
+
 
