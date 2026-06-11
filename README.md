@@ -42,7 +42,17 @@ Reniguntla Sreenivasulu
 ### Dog Image
 ![Dog](screenshots/screenshots/dog.png)
 
+
 ### Dog Prediction
 ![Dog Prediction](screenshots/screenshots/dog_prediction.png)
 
 
+🎯 Objective
+
+To understand and implement the K-Nearest Neighbors (KNN) algorithm from scratch and deploy it as an interactive machine learning web application using Streamlit.
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
+⭐ If you found this project helpful, please consider giving it a star!
