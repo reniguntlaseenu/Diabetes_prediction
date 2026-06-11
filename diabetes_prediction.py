@@ -64,7 +64,7 @@ class KNN_Classifier():
 # ------------------------------
 df = pd.read_csv("diabetes.csv")
 
-X = df.drop(columns='Outcome', axis=1)
+X = df.drop(columns='Outcome')
 Y = df['Outcome']
 
 X = X.to_numpy()
